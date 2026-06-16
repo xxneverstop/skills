@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Git Main Release"
+  short_description: "Publish repo to GitHub/GitLab main with confirmed tag."
+  default_prompt: "Use $git-main-release to publish the current version to GitHub and GitLab main, confirm the tag name with me, and switch back to dev afterward."

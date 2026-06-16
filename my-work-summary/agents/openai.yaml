@@ -1,0 +1,7 @@
+interface:
+  display_name: "My Work Summary"
+  short_description: "Summarize actual completed work into concise completed items"
+  default_prompt: "Use $my-work-summary to summarize yesterday's actual completed work into concise completed items and next-step plans."
+
+policy:
+  allow_implicit_invocation: true
