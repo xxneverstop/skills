@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Item Summary"
+  short_description: "Format current work into O/completed/next-step summary"
+  default_prompt: "Use $work-item-summary to turn the current context into one concise O / 完成事项 / 下步计划 work item."
