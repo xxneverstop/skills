@@ -1,0 +1,6 @@
+interface:
+  display_name: "用大白话讲清楚代码项目"
+  short_description: "用大白话解释架构、术语、数据链路，帮助新人快速看懂代码库"
+  default_prompt: "Use $my-explain-project-plainly to explain this project in clear, plain Chinese."
+policy:
+  allow_implicit_invocation: true
